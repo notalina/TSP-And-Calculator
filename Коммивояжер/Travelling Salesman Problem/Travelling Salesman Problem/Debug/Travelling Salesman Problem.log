@@ -1,0 +1,48 @@
+﻿  Graph.cpp
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(25,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(26,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(50,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(61,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(101,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(103,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(122,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(123,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(135,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(136,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(148,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(166,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(178,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(180,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(193,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(194,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(216,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(233,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(234,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(255,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(310,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\Graph.cpp(313,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.h(11,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.h(12,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.h(13,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  OpenGLHelper.cpp
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.h(11,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.h(12,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.h(13,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(96,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(97,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(103,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(157,17): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(157,13): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(158,17): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(158,13): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(178,25): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(178,18): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(179,25): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(179,18): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\Travelling Salesman Problem\Travelling Salesman Problem\OpenGLHelper.cpp(180,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Travelling Salesman Problem.vcxproj -> C:\Users\User\source\repos\Travelling Salesman Problem\Debug\Travelling Salesman Problem.exe
